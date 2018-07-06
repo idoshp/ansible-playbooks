@@ -15,7 +15,7 @@
     -  INSTANCE_NAME = "<you ansible instance name>"
     -  PRIVATE_KEY_PATH = "<full path to your .pem key>"
     -  KEY_NAME = "<key name defined in aws>"
-- create a folder name "create_ansible" and copy bot the terraform.tfvars and the ansible.tf file.
+- create a Temp folder and copy both the terraform.tfvars you created and the ansible.tf file.
 
 #### Installation
 
